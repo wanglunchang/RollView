@@ -1,0 +1,6 @@
+{
+  "name": "Rollview",
+  "tagline": "无限轮播图。根据iCarousel库去做的。",
+  "body": "# RollView\r\n无限轮播图。根据iCarousel库去做的。  \r\n\r\n可设置动画类型。ps：iCarousel已有的类型   \r\n\r\n可添加网络图片或本地图片。（后续会做对图片的缓存）   \r\n\r\n![image](https://github.com/xinlehou/RollView/raw/master/1111.gif)\r\n\r\n![image](https://github.com/xinlehou/RollView/raw/master/1111.gif)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
