@@ -6,6 +6,3 @@
 可添加网络图片或本地图片。（后续会做对图片的缓存）   
 
 ![image](https://github.com/xinlehou/RollView/raw/master/1111.gif)
-
-
-![image](https://github.com/wanglunchang/TableView22/blob/master/TableView333/TableView333/111111.gif)
